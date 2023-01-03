@@ -52,7 +52,7 @@ $ sudo pip3 install beautifulsoup4
     ],
     'support': 'modulos@operu.pe',
     'installable': True,
-    'auto_install': False,
+    'auto_install': True,
     "sequence": 1,
 
     'post_init_hook': '_odoope_ruc_validation_init',
